@@ -32,3 +32,12 @@ code {
   right: 0;
   bottom: 0;
 }
+.touch {
+  position: absolute;
+  border-radius: 50%;
+}
+.debug {
+  position: fixed;
+  left: 8px;
+  top: 8px;
+}
